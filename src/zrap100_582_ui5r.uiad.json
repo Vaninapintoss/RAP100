@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Travel App 582"
+  },
+  "ui5AppDetails": {
+    "appId": "zrap100582"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_193E8B8565B1E8C646D2CDC3A24672B4AE4FBF46_TM",
+    "semanticObject": "zrap100_582",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_193E8B8565B1E8C646D2CDC3A24672B4AE4FBF46_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Travel App 582"
+      }
+    }
+  ]
+}
